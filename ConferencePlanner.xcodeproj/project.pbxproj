@@ -161,6 +161,7 @@
 				TargetAttributes = {
 					558897271E83CB1900A5E05E = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = HD5UELD683;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -378,6 +379,7 @@
 			baseConfigurationReference = B7FA8169A0EF4D8C4F1FF8EB /* Pods-ConferencePlanner.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HD5UELD683;
 				INFOPLIST_FILE = ConferencePlanner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.ConferencePlanner;
@@ -391,6 +393,7 @@
 			baseConfigurationReference = 45DE3CD9034255696F7A60F5 /* Pods-ConferencePlanner.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HD5UELD683;
 				INFOPLIST_FILE = ConferencePlanner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.ConferencePlanner;
